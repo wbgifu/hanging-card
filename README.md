@@ -1,0 +1,2 @@
+# hanging-card
+WordBench岐阜イベント時に首から下げておくカードのテンプレート
